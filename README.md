@@ -28,11 +28,9 @@ Este projeto foi desenvolvido para uso interno na empresa onde atuo, com o objet
 
 ### Dashboard
 <img src="./images/dashboard.png" alt="Página do dashboard" height="350"/>
-<!-- ![Dashboard](./images/dashboard.png) -->
 
 ### Inventário
-<img src="./images/stock.png" alt="Página do estoque" height="350"/> 
-<!-- ![Estoque](./images/stock.png) -->
+<img src="./images/stock.png" alt="Página do estoque" height="350"/>
 
 ### Entradas e Saídas
 <img src="./images/stock-in.png" alt="Página de entradas" height="350"/>
