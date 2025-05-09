@@ -1,6 +1,6 @@
 # Sistema de Controle de Estoque (Angular + Firebase)
 
-Este projeto foi desenvolvido para uso interno na empresa onde atuo, com o objetivo de auxiliar na organização e controle do estoque da empresa. Oferecendo uma vizualização clara das movimentações, registro de entradas e saídas de produtos, e geração de relatórios mensais que ajudam diretamente nas compras para reposição pontual e precisa do estoque.
+Este projeto foi desenvolvido para uso interno na empresa onde atuo, com o objetivo de auxiliar na organização e controle do estoque da empresa. Oferecendo uma visualização clara das movimentações, registro de entradas e saídas de produtos, e geração de relatórios mensais que ajudam diretamente nas compras para reposição pontual e precisa do estoque.
 
 > **Por ser um sistema interno, o código-fonte não está disponível neste repositório.**
 
